@@ -1,0 +1,7 @@
+C:\Users\night\source\repos\TaskOf3May\bin\Debug\TaskOf3May.exe.config
+C:\Users\night\source\repos\TaskOf3May\bin\Debug\TaskOf3May.exe
+C:\Users\night\source\repos\TaskOf3May\bin\Debug\TaskOf3May.pdb
+C:\Users\night\source\repos\TaskOf3May\obj\Debug\TaskOf3May.csproj.AssemblyReference.cache
+C:\Users\night\source\repos\TaskOf3May\obj\Debug\TaskOf3May.csproj.CoreCompileInputs.cache
+C:\Users\night\source\repos\TaskOf3May\obj\Debug\TaskOf3May.exe
+C:\Users\night\source\repos\TaskOf3May\obj\Debug\TaskOf3May.pdb
